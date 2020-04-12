@@ -12,11 +12,20 @@
     
     
     <item>
+      <title>Second Pulication</title>
+      <link>/publications/posts/secondpublication.html</link>
+      <pubDate>Sat, 11 Apr 2020 17:30:27 -0400</pubDate>
+      
+      <guid>/publications/posts/secondpublication.html</guid>
+      <description>This is the second publication under /publication</description>
+    </item>
+    
+    <item>
       <title>Publications</title>
-      <link>/publications/publications.html</link>
+      <link>/publications/posts/publications.html</link>
       <pubDate>Sat, 11 Apr 2020 17:14:44 -0400</pubDate>
       
-      <guid>/publications/publications.html</guid>
+      <guid>/publications/posts/publications.html</guid>
       <description>This is my publication under content/publications</description>
     </item>
     
