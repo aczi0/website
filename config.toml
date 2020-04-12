@@ -2,5 +2,6 @@ baseURL = "/"
 languageCode = "en-us"
 title = "alexandre clarizio"
 theme = "tale"
-[permalinks]
-    post = "/:year/:month/:day/:slug/" 
+canonifyurls = true
+relativeURLs = true
+uglyURLs = true

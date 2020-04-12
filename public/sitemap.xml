@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/about/</loc>
+    <loc>/about.html</loc>
     <lastmod>2020-04-11T17:10:17-04:00</lastmod>
   </url>
   
@@ -13,11 +13,11 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/categories.html</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tags.html</loc>
   </url>
   
 </urlset>
