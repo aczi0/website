@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2020-04-11T17:10:17-04:00
-draft: true
+draft: false
 menu: "main"
 
 ---
