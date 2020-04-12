@@ -5,3 +5,4 @@ theme = "tale"
 canonifyurls = true
 relativeURLs = true
 uglyURLs = true
+
