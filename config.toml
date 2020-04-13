@@ -6,3 +6,4 @@ canonifyurls = true
 relativeURLs = true
 uglyURLs = true
 
+googleAnalytics = "UA-163427105-1"
