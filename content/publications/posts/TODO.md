@@ -17,3 +17,7 @@ draft: true
 9. Can you host a file on github and add the DL link here?
 10. Add an image to a post
 11. Add a logo next to my name
+12. Add archives
+13. Add tags/categories and page with all of them agglomerated (Tags/category but w/ diff name)
+14. Add follow blog (email)
+15. add RSS feed

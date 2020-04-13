@@ -35,7 +35,7 @@
       <pubDate>Sat, 11 Apr 2020 17:30:27 -0400</pubDate>
       
       <guid>/publications/posts/secondpublication.html</guid>
-      <description>This is the second publication under /publication</description>
+      <description>this is a summary</description>
     </item>
     
     <item>
@@ -48,12 +48,18 @@
     </item>
     
     <item>
-      <title>Hi, I&#39;m Alexandre!</title>
+      <title>About</title>
       <link>/about/about.html</link>
       <pubDate>Sat, 11 Apr 2020 17:10:17 -0400</pubDate>
       
       <guid>/about/about.html</guid>
-      <description>After being a long time blog reader I decided to start my own. I strongly believe that writing makes you a better thinker, so why not document and share what I stumble on with the internet?</description>
+      <description>Hi, I&amp;rsquo;m Alexandre! After being a long time blog reader I decided to start my own. I strongly believe that writing makes you a better thinker, so why not document and share what I stumble on with the internet?
+Stats Age 29
+Culture Canadian-Italian
+Languages English &amp;amp; French
+Education B.Ing, Concordia University
+Interests mathematics, physics, management science, finance, vast open spaces, camping
+Favorite books Three-body problem, The Dark Tower series</description>
     </item>
     
   </channel>
